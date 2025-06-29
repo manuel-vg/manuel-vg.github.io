@@ -1,10 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about/
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
-## About Me
 
 My name is Manuel. I’m a computer scientist and a Ph.D. candidate at the University of Warsaw. My primary research interests lie in artificial intelligence, particularly in formal logic, deep learning, knowledge representation, and automated theorem proving.
 
