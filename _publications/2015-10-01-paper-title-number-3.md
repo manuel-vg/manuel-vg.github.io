@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'We evaluate how well neural models generalize syllogistic logical reasoning, using custom tests focused on compositionality and recursion.'
-date: 2024
+date: 2024-06-16
 venue: 'Annual Conference of the North American Chapter of the Association for Computational Linguistics'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://aclanthology.org/2024.findings-naacl.147.pdf'
