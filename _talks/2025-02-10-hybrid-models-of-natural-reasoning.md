@@ -3,7 +3,7 @@ title: "Hybrid Models of Natural Reasoning"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-02-10-hybrid-models-of-natural-reasoning
-venue: "33rd EACSL Annual Conference on Computer Science Logic. Amsterdam Science Park."
+venue: "33rd EACSL Annual Conference on Computer Science Logic, Amsterdam Science Park"
 date: 2025-02-10
 location: "Amsterdam, the Netherlands"
 ---
