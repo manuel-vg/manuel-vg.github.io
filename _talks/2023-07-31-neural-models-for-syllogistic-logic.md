@@ -8,6 +8,8 @@ date: 2023-07-31
 location: "Ljubljana, Slovenia"
 ---
 
+[More information here](https://2023.esslli.eu/)
+
 **Abstract.** Despite the success of neural networks to perform numerous
 cognitive tasks, few studies involving reasoning have been carried out,
 and it remains an open question whether neural networks can learn logic.
