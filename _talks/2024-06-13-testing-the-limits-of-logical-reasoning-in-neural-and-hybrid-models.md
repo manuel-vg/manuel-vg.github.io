@@ -3,7 +3,7 @@ title: "Testing the limits of logical reasoning in neural and hybrid models"
 collection: talks
 type: "Conference proceedings"
 permalink: /talks/2024-06-13-testing-the-limits-of-logical-reasoning-in-neural-and-hybrid-models
-venue: "2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Virtual Poster"
+venue: "2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Online (Virtual Poster)"
 date: 2024-06-13
 location: "Mexico City, Mexico"
 ---
