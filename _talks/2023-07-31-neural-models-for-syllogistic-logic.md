@@ -3,7 +3,7 @@ title: "Neural Models for Syllogistic Logic"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-07-31-neural-models-for-syllogistic-logic
-venue: "34th European Summer School in Logic, Language and Information (ESSLLI). University of Ljubljana, Faculty of Computer and Information Science"
+venue: "34th European Summer School in Logic, Language and Information (ESSLLI), University of Ljubljana, Faculty of Computer and Information Science"
 date: 2023-07-31
 location: "Ljubljana, Slovenia"
 ---
