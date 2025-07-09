@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science & Linguistics, Interdisciplinary Doctoral School, University of Warsaw, 2025 (expected)
+* M.S. in Computational Logic, Technical University of Madrid, 2011
+* B.S. in Computer Systems Engineering, Universidad Privada del Valle, La Paz, 2001
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Research Scholar**  
+Institute of Mathematics, Polish Academy of Sciences (IMPAN), Warsaw, Poland  
+*Oct. 2021 – Sep. 2024*  
+- Scholarship-funded research position focusing on deep learning and Python programming.
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -31,15 +31,6 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,7 +49,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
