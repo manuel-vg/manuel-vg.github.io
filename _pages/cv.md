@@ -22,15 +22,20 @@ Institute of Mathematics, Polish Academy of Sciences (IMPAN), Warsaw, Poland
 *Oct. 2021 – Sep. 2024*  
 - Scholarship-funded research position focusing on deep learning and Python programming.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Software Developer**  
+San Calixto Observatory, La Paz, Bolivia  
+*Oct. 2017 – Jun. 2018*  
+- Designed and developed the “Boletín Sísmico” system, including database (MySQL), backend logic, and user interface using Python.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Researcher**  
+University of Kassel, Formal Methods and Software Verification Group, Kassel, Germany  
+*Sep. 2011 – Jul. 2014*  
+- Full-time research position focused on model checking and programming in OCaml.
+
+**Research Scholar**  
+Technical University of Madrid, COSTA Research Group, Madrid, Spain  
+*Nov. 2009 – Feb. 2011*  
+- Scholarship-funded research position focused on programming in Prolog.
 
 Publications
 ======
