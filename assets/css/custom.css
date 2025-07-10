@@ -1,10 +1,10 @@
 /* 🌐 Global link color customization */
-.post a {
+a {
   color: #394a99;
   text-decoration: none;
 }
 
-.post a:hover {
+a:hover {
   color: #266b1d;
   text-decoration: underline;
 }
