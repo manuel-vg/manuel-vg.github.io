@@ -1,5 +1,9 @@
-/* 🌐 Global link color customization */
-a {
-  color: #394a99;
-  text-decoration: none;
+.content a {
+  color: #00008B;          /* dark blue links in main content */
+  text-decoration: none;   /* no underline */
+}
+
+.content a:hover {
+  color: #191970;          /* darker blue on hover */
+  text-decoration: underline;
 }
