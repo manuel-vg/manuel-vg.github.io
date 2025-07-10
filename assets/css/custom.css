@@ -1,9 +1,9 @@
 /* 🌐 Global link color customization */
 a {
-  color: #00008B;            /* dark blue */
+  color: #20488a;            /* dark blue */
   text-decoration: none;     /* remove underline if desired */
 }
 
 a:hover {
-  color: #191970;            /* midnight blue at hover */
+  color: #1a6610;            /* midnight blue at hover */
 }
