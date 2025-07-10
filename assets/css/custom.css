@@ -1,0 +1,9 @@
+/* 🌐 Global link color customization */
+a {
+  color: #00008B;            /* dark blue */
+  text-decoration: none;     /* remove underline if desired */
+}
+
+a:hover {
+  color: #191970;            /* midnight blue at hover */
+}
