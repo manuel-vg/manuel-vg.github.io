@@ -1,6 +1,7 @@
 /* 🌐 Global link color customization */
 a {
-  color: #1d2b6b;  
+  color: #1d2b6b;
+  text-decoration: none;
 }
 
 a:hover {
