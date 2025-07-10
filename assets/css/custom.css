@@ -1,9 +1,9 @@
-a {
+.masthead a {
   color: #00008B;          /* dark blue links in main content */
   text-decoration: none;   /* no underline */
 }
 
-a:hover {
+.masthead a:hover {
   color: #191970;          /* darker blue on hover */
   text-decoration: underline;
 }
