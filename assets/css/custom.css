@@ -1,9 +1,8 @@
 /* 🌐 Global link color customization */
 a {
-  text-decoration: none;
-  color: #266b1d;
+  color: #1d2b6b;  
 }
 
 a:hover {
-  text-decoration: underline;
+  color: #266b1d;
 }
