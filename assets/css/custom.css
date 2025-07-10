@@ -1,9 +1,9 @@
-.masthead__inner-wrap a {
+.page__hero a {
   color: #00008B;          /* dark blue links in main content */
   text-decoration: none;   /* no underline */
 }
 
-.masthead__inner-wrap a:hover {
+.page__hero a:hover {
   color: #191970;          /* darker blue on hover */
   text-decoration: underline;
 }
