@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science & Linguistics, Interdisciplinary Doctoral School, University of Warsaw, 2025 (expected)
 * M.S. in Computational Logic, Technical University of Madrid, 2011
-* B.S. in Computer Systems Engineering, Universidad Privada del Valle, La Paz, 2001
+* B.S. in Computer Systems Engineering, Universidad del Valle, La Paz, 2001
 
 Work experience
 ======
