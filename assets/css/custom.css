@@ -1,9 +1,9 @@
-.masthead a {
+.masthead__inner-wrap a {
   color: #00008B;          /* dark blue links in main content */
   text-decoration: none;   /* no underline */
 }
 
-.masthead a:hover {
+.masthead__inner-wrap a:hover {
   color: #191970;          /* darker blue on hover */
   text-decoration: underline;
 }
