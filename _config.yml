@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Logic and Deep Learning"
   location         : "Warsaw, Poland"
-  employer         : "University of Warsaw"
-  uri              : https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/osoby/pokazOsobe&os_id=420033
-  email            : "m.vargas-guzman@uw.edu.pl" 
+  employer         : "Institute of Fundamental Technological Research of the Polish Academy of Sciences"
+  uri              : https://www.ippt.pan.pl/en/staff/?osoba=mvargasg
+  email            : "mvargasg@ippt.pan.pl" 
 
   # Academic websites
   academia         : # URL
