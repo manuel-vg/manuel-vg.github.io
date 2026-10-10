@@ -2,9 +2,9 @@
 title: "Lecturer - University of Warsaw"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-2026-teaching
+permalink: /teaching/teaching-university-of-warsaw
 venue: "University of Warsaw, Faculty of Philosophy"
-date: 2026-02-18
+date: 2021-10-01
 location: "Warsaw, Poland"
 ---
 
