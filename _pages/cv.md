@@ -17,6 +17,12 @@ Education
 
 Work experience
 ======
+
+**Researcher**  
+Institute of Fundamental Technological Research, Polish Academy of Sciences (IPPT PAN), Warsaw, Poland  
+*Sep. 2025 - Present*  
+- Research in deep learning, transformer model expressivity, and programming in Python.  
+
 **Doctoral Researcher**  
 Institute of Mathematics, Polish Academy of Sciences (IMPAN), later affiliated with the Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw (MIMUW), Warsaw, Poland  
 *Oct. 2021 – Sep. 2025*  
