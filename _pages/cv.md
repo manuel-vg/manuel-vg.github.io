@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, Interdisciplinary Doctoral School, University of Warsaw — dissertation submitted
+* PhD in Computer Science, Interdisciplinary Doctoral School, University of Warsaw (dissertation submitted; awaiting defence)
 * MSc in Computational Logic, Technical University of Madrid, 2011
 * BSs in Computer Systems Engineering, Universidad del Valle, La Paz, 2001
 
