@@ -2,9 +2,9 @@
 title: "Part-Time Lecturer – Universidad del Valle"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/2018-2020-teaching
+permalink: /teaching/teaching-univalle
 venue: "Universidad del Valle, Ingeniería de Sistemas Informáticos"
-date: 2020-02-03
+date: 2018-02-12
 location: "La Paz, Bolivia"
 ---
 
