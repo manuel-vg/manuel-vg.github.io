@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science & Linguistics, Interdisciplinary Doctoral School, University of Warsaw, 2025 (expected)
-* M.S. in Computational Logic, Technical University of Madrid, 2011
-* B.S. in Computer Systems Engineering, Universidad del Valle, La Paz, 2001
+* PhD in Computer Science, Interdisciplinary Doctoral School, University of Warsaw — dissertation submitted
+* MSc in Computational Logic, Technical University of Madrid, 2011
+* BSs in Computer Systems Engineering, Universidad del Valle, La Paz, 2001
 
 Work experience
 ======
 **Research Scholar**  
-Institute of Mathematics, Polish Academy of Sciences (IMPAN), Warsaw, Poland  
-*Oct. 2021 – Sep. 2024*  
-- Scholarship-funded research position focusing on deep learning and Python programming.
+Institute of Mathematics, Polish Academy of Sciences (IMPAN), later affiliated with the Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw (MIMUW), Warsaw, Poland  
+*Oct. 2021 – Sep. 2025*  
+- Research on neural and symbolic methods for natural language reasoning and formal logic, funded through the NCN OPUS 19 project *Hybrydowe modele rozumowania*.
 
 **Software Developer**  
 San Calixto Observatory, La Paz, Bolivia  
