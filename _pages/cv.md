@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-**Research Scholar**  
+**Doctoral Researcher**  
 Institute of Mathematics, Polish Academy of Sciences (IMPAN), later affiliated with the Faculty of Mathematics, Informatics, and Mechanics, University of Warsaw (MIMUW), Warsaw, Poland  
 *Oct. 2021 – Sep. 2025*  
 - Research on neural and symbolic methods for natural language reasoning and formal logic, funded through the NCN OPUS 19 project *Hybrydowe modele rozumowania*.
